@@ -14,7 +14,7 @@ metadata:
 spec:
   enabled: false
   repo: https://charts.loft.sh
-  version: "v0.30.0"
+  version: "v0.20.0"
   chart: vcluster
   valuesContent: |-
     hostname: ""
